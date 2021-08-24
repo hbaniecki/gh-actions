@@ -9,7 +9,9 @@ Configure GitHub Actions for R
 - https://github.com/r-lib/remotes
 - https://github.com/r-lib/actions
 
-## Tutorial for R Configuration (v0.1.0)
+## Tutorial for R Configuration (09/2020 v0.1.0)
+
+*09/2021: This could be outdated. Up to date files/configuration should be at the repositories of [modelStudio](https://github.com/ModelOriented/modelStudio/tree/master/.github) & [DALEX](https://github.com/ModelOriented/DALEX/tree/master/.github) R packages.*
 
 0. make a coffee
 
